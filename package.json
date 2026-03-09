@@ -1,0 +1,5 @@
+{
+  "name": "vibefiles-server",
+  "version": "1.0.0",
+  "description": "VibeFiles backend proxy for Groq API"
+}
